@@ -7,7 +7,7 @@ Logs/
 
 # Generated files
 project.lock.json
-.vs/
+*.vs/
 
 # mstest test results
 TestResults
@@ -50,6 +50,9 @@ ipch/
 *.ncb
 *.opensdf
 *.sdf
+
+#Database
+*.db
 
 # Visual Studio profiler
 *.psess

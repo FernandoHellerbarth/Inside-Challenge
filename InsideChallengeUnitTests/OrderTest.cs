@@ -2,7 +2,7 @@ using InsideChallenge.Domain.Entities;
 
 namespace InsideChallengeUnitTests
 {
-    public class UnitTest1
+    public class OrderTest
     {
         [Fact]
         public void Order_ShouldInitializeWithDefaults()
