@@ -119,3 +119,6 @@ src/.vs/config/applicationhost.config
 
 # JetBrains Rider's auto generated files
 .idea/
+InsideChallenge/InsideChallenge.db-shm
+InsideChallenge/InsideChallenge.db-wal
+InsideChallenge/InsideChallenge.db
